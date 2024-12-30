@@ -1,0 +1,30 @@
+C:\Users\QA\Documents\GitHub\Curso Udamy - POO\ExercicioResolvido\bin\Debug\net8.0\ExercicioResolvido.exe
+C:\Users\QA\Documents\GitHub\Curso Udamy - POO\ExercicioResolvido\bin\Debug\net8.0\ExercicioResolvido.deps.json
+C:\Users\QA\Documents\GitHub\Curso Udamy - POO\ExercicioResolvido\bin\Debug\net8.0\ExercicioResolvido.runtimeconfig.json
+C:\Users\QA\Documents\GitHub\Curso Udamy - POO\ExercicioResolvido\bin\Debug\net8.0\ExercicioResolvido.dll
+C:\Users\QA\Documents\GitHub\Curso Udamy - POO\ExercicioResolvido\bin\Debug\net8.0\ExercicioResolvido.pdb
+C:\Users\QA\Documents\GitHub\Curso Udamy - POO\ExercicioResolvido\obj\Debug\net8.0\ExercicioResolvido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QA\Documents\GitHub\Curso Udamy - POO\ExercicioResolvido\obj\Debug\net8.0\ExercicioResolvido.AssemblyInfoInputs.cache
+C:\Users\QA\Documents\GitHub\Curso Udamy - POO\ExercicioResolvido\obj\Debug\net8.0\ExercicioResolvido.AssemblyInfo.cs
+C:\Users\QA\Documents\GitHub\Curso Udamy - POO\ExercicioResolvido\obj\Debug\net8.0\ExercicioResolvido.csproj.CoreCompileInputs.cache
+C:\Users\QA\Documents\GitHub\Curso Udamy - POO\ExercicioResolvido\obj\Debug\net8.0\ExercicioResolvido.sourcelink.json
+C:\Users\QA\Documents\GitHub\Curso Udamy - POO\ExercicioResolvido\obj\Debug\net8.0\ExercicioResolvido.dll
+C:\Users\QA\Documents\GitHub\Curso Udamy - POO\ExercicioResolvido\obj\Debug\net8.0\refint\ExercicioResolvido.dll
+C:\Users\QA\Documents\GitHub\Curso Udamy - POO\ExercicioResolvido\obj\Debug\net8.0\ExercicioResolvido.pdb
+C:\Users\QA\Documents\GitHub\Curso Udamy - POO\ExercicioResolvido\obj\Debug\net8.0\ExercicioResolvido.genruntimeconfig.cache
+C:\Users\QA\Documents\GitHub\Curso Udamy - POO\ExercicioResolvido\obj\Debug\net8.0\ref\ExercicioResolvido.dll
+C:\Users\QA\Documents\GitHub\Curso Udamy - POO\Seção 4\ExercicioResolvido\bin\Debug\net8.0\ExercicioResolvido.exe
+C:\Users\QA\Documents\GitHub\Curso Udamy - POO\Seção 4\ExercicioResolvido\bin\Debug\net8.0\ExercicioResolvido.deps.json
+C:\Users\QA\Documents\GitHub\Curso Udamy - POO\Seção 4\ExercicioResolvido\bin\Debug\net8.0\ExercicioResolvido.runtimeconfig.json
+C:\Users\QA\Documents\GitHub\Curso Udamy - POO\Seção 4\ExercicioResolvido\bin\Debug\net8.0\ExercicioResolvido.dll
+C:\Users\QA\Documents\GitHub\Curso Udamy - POO\Seção 4\ExercicioResolvido\bin\Debug\net8.0\ExercicioResolvido.pdb
+C:\Users\QA\Documents\GitHub\Curso Udamy - POO\Seção 4\ExercicioResolvido\obj\Debug\net8.0\ExercicioResolvido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QA\Documents\GitHub\Curso Udamy - POO\Seção 4\ExercicioResolvido\obj\Debug\net8.0\ExercicioResolvido.AssemblyInfoInputs.cache
+C:\Users\QA\Documents\GitHub\Curso Udamy - POO\Seção 4\ExercicioResolvido\obj\Debug\net8.0\ExercicioResolvido.AssemblyInfo.cs
+C:\Users\QA\Documents\GitHub\Curso Udamy - POO\Seção 4\ExercicioResolvido\obj\Debug\net8.0\ExercicioResolvido.csproj.CoreCompileInputs.cache
+C:\Users\QA\Documents\GitHub\Curso Udamy - POO\Seção 4\ExercicioResolvido\obj\Debug\net8.0\ExercicioResolvido.sourcelink.json
+C:\Users\QA\Documents\GitHub\Curso Udamy - POO\Seção 4\ExercicioResolvido\obj\Debug\net8.0\ExercicioResolvido.dll
+C:\Users\QA\Documents\GitHub\Curso Udamy - POO\Seção 4\ExercicioResolvido\obj\Debug\net8.0\refint\ExercicioResolvido.dll
+C:\Users\QA\Documents\GitHub\Curso Udamy - POO\Seção 4\ExercicioResolvido\obj\Debug\net8.0\ExercicioResolvido.pdb
+C:\Users\QA\Documents\GitHub\Curso Udamy - POO\Seção 4\ExercicioResolvido\obj\Debug\net8.0\ExercicioResolvido.genruntimeconfig.cache
+C:\Users\QA\Documents\GitHub\Curso Udamy - POO\Seção 4\ExercicioResolvido\obj\Debug\net8.0\ref\ExercicioResolvido.dll
