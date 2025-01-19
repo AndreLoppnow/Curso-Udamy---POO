@@ -1,0 +1,15 @@
+C:\Users\andre\Desktop\Projetos C#\Curso-Udamy---POO\Seção 5\ExerciciosResolvidos\bin\Debug\net8.0\ExerciciosResolvidos.exe
+C:\Users\andre\Desktop\Projetos C#\Curso-Udamy---POO\Seção 5\ExerciciosResolvidos\bin\Debug\net8.0\ExerciciosResolvidos.deps.json
+C:\Users\andre\Desktop\Projetos C#\Curso-Udamy---POO\Seção 5\ExerciciosResolvidos\bin\Debug\net8.0\ExerciciosResolvidos.runtimeconfig.json
+C:\Users\andre\Desktop\Projetos C#\Curso-Udamy---POO\Seção 5\ExerciciosResolvidos\bin\Debug\net8.0\ExerciciosResolvidos.dll
+C:\Users\andre\Desktop\Projetos C#\Curso-Udamy---POO\Seção 5\ExerciciosResolvidos\bin\Debug\net8.0\ExerciciosResolvidos.pdb
+C:\Users\andre\Desktop\Projetos C#\Curso-Udamy---POO\Seção 5\ExerciciosResolvidos\obj\Debug\net8.0\ExerciciosResolvidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\Projetos C#\Curso-Udamy---POO\Seção 5\ExerciciosResolvidos\obj\Debug\net8.0\ExerciciosResolvidos.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Projetos C#\Curso-Udamy---POO\Seção 5\ExerciciosResolvidos\obj\Debug\net8.0\ExerciciosResolvidos.AssemblyInfo.cs
+C:\Users\andre\Desktop\Projetos C#\Curso-Udamy---POO\Seção 5\ExerciciosResolvidos\obj\Debug\net8.0\ExerciciosResolvidos.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Projetos C#\Curso-Udamy---POO\Seção 5\ExerciciosResolvidos\obj\Debug\net8.0\ExerciciosResolvidos.sourcelink.json
+C:\Users\andre\Desktop\Projetos C#\Curso-Udamy---POO\Seção 5\ExerciciosResolvidos\obj\Debug\net8.0\ExerciciosResolvidos.dll
+C:\Users\andre\Desktop\Projetos C#\Curso-Udamy---POO\Seção 5\ExerciciosResolvidos\obj\Debug\net8.0\refint\ExerciciosResolvidos.dll
+C:\Users\andre\Desktop\Projetos C#\Curso-Udamy---POO\Seção 5\ExerciciosResolvidos\obj\Debug\net8.0\ExerciciosResolvidos.pdb
+C:\Users\andre\Desktop\Projetos C#\Curso-Udamy---POO\Seção 5\ExerciciosResolvidos\obj\Debug\net8.0\ExerciciosResolvidos.genruntimeconfig.cache
+C:\Users\andre\Desktop\Projetos C#\Curso-Udamy---POO\Seção 5\ExerciciosResolvidos\obj\Debug\net8.0\ref\ExerciciosResolvidos.dll
