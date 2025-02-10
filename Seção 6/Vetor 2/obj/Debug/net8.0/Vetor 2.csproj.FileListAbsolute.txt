@@ -1,0 +1,15 @@
+C:\Users\QA\Documents\GitHub\Curso Udamy - POO\Seção 6\Vetor 2\obj\Debug\net8.0\Vetor 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QA\Documents\GitHub\Curso Udamy - POO\Seção 6\Vetor 2\obj\Debug\net8.0\Vetor 2.AssemblyInfoInputs.cache
+C:\Users\QA\Documents\GitHub\Curso Udamy - POO\Seção 6\Vetor 2\obj\Debug\net8.0\Vetor 2.AssemblyInfo.cs
+C:\Users\QA\Documents\GitHub\Curso Udamy - POO\Seção 6\Vetor 2\obj\Debug\net8.0\Vetor 2.csproj.CoreCompileInputs.cache
+C:\Users\QA\Documents\GitHub\Curso Udamy - POO\Seção 6\Vetor 2\obj\Debug\net8.0\Vetor 2.sourcelink.json
+C:\Users\QA\Documents\GitHub\Curso Udamy - POO\Seção 6\Vetor 2\bin\Debug\net8.0\Vetor 2.exe
+C:\Users\QA\Documents\GitHub\Curso Udamy - POO\Seção 6\Vetor 2\bin\Debug\net8.0\Vetor 2.deps.json
+C:\Users\QA\Documents\GitHub\Curso Udamy - POO\Seção 6\Vetor 2\bin\Debug\net8.0\Vetor 2.runtimeconfig.json
+C:\Users\QA\Documents\GitHub\Curso Udamy - POO\Seção 6\Vetor 2\bin\Debug\net8.0\Vetor 2.dll
+C:\Users\QA\Documents\GitHub\Curso Udamy - POO\Seção 6\Vetor 2\bin\Debug\net8.0\Vetor 2.pdb
+C:\Users\QA\Documents\GitHub\Curso Udamy - POO\Seção 6\Vetor 2\obj\Debug\net8.0\Vetor 2.dll
+C:\Users\QA\Documents\GitHub\Curso Udamy - POO\Seção 6\Vetor 2\obj\Debug\net8.0\refint\Vetor 2.dll
+C:\Users\QA\Documents\GitHub\Curso Udamy - POO\Seção 6\Vetor 2\obj\Debug\net8.0\Vetor 2.pdb
+C:\Users\QA\Documents\GitHub\Curso Udamy - POO\Seção 6\Vetor 2\obj\Debug\net8.0\Vetor 2.genruntimeconfig.cache
+C:\Users\QA\Documents\GitHub\Curso Udamy - POO\Seção 6\Vetor 2\obj\Debug\net8.0\ref\Vetor 2.dll
