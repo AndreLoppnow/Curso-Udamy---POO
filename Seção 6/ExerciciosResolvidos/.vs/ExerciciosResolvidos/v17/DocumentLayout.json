@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{0B067611-92D4-4359-A8FA-C0B6BCE6522B}|ExerciciosResolvidos.csproj|c:\\users\\qa\\documents\\github\\curso udamy - poo\\se\u00E7\u00E3o 6\\exerciciosresolvidos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B067611-92D4-4359-A8FA-C0B6BCE6522B}|ExerciciosResolvidos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B067611-92D4-4359-A8FA-C0B6BCE6522B}|ExerciciosResolvidos.csproj|c:\\users\\qa\\documents\\github\\curso udamy - poo\\se\u00E7\u00E3o 6\\exerciciosresolvidos\\estudante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B067611-92D4-4359-A8FA-C0B6BCE6522B}|ExerciciosResolvidos.csproj|solutionrelative:estudante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,13 +38,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Estudante.cs",
+              "DocumentMoniker": "C:\\Users\\QA\\Documents\\GitHub\\Curso Udamy - POO\\Se\u00E7\u00E3o 6\\ExerciciosResolvidos\\Estudante.cs",
+              "RelativeDocumentMoniker": "Estudante.cs",
+              "ToolTip": "C:\\Users\\QA\\Documents\\GitHub\\Curso Udamy - POO\\Se\u00E7\u00E3o 6\\ExerciciosResolvidos\\Estudante.cs",
+              "RelativeToolTip": "Estudante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T10:16:23.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\QA\\Documents\\GitHub\\Curso Udamy - POO\\Se\u00E7\u00E3o 6\\ExerciciosResolvidos\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\QA\\Documents\\GitHub\\Curso Udamy - POO\\Se\u00E7\u00E3o 6\\ExerciciosResolvidos\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T15:53:09.163Z",
               "EditorCaption": ""
